@@ -41,4 +41,6 @@ def run_experiment(p1, p2, N):
     plt.plot(np.ones(N)*0.05)
     plt.show()
 
+    
+
 run_experiment(0.1, 0.11, 20000)
